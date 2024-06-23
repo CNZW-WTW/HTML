@@ -68,49 +68,25 @@ id="content"
 
 
 
-<script>
-    //link
-    var gh = 'https://github.com/CNZW-WTW/';
-    var bl = 'https://space.bilibili.com/3493132140284888/';
-    var x = 'https://twitter.com/CNZW_WTW';
-    var qq = 'tencent://message/?uin=1780614361';
-    var em = 'mailto:cnzw-wtw@qq.com';
-    function cg() {
-        window.open(gh, '_blank');
-    }
-    function cb() {
-        window.open(bl, '_blank');
-    }
-    function cx() {
-        window.open(x, '_blank');
-    }
-    function cq() {
-        alert('QQ: 1780614361');
-        window.open(qq, '_blank');
-    }
-    function cem() {
-        alert('联系我请使用邮箱: cnzw-wtw@qq.com');
-        window.open(em, '_blank');
-    }
-</script>
-<footer id="footer">
-    <center>
-        <div id="ftlk">
-            <br>
-            <img src="/img/icon/github.png" id="cwflk-gh" class="cfl" onclick="cg()" title="Github:@CNZW-WTW" alt="Github:@CNZW-WTW" width="55">
-            <img src="/img/icon/bilibili.png" id="cwflk-bl" class="cfl" onclick="cb()" title="Bilibili:@CNZW" alt="Bilibili:@CNZW" width="55">
-            <img src="/img/icon/twitter.png" id="cwflk-x" class="cfl" onclick="cx()" title="X:@CNZW_WTW" alt="X:@CNZW_WTW" width="55">
-            <img src="/img/icon/qq.png" id="cwflk-qq" class="cfl" onclick="cq()" title="QQ" alt="QQ" width="55">
-            <img src="/img/icon/email.png" id="cwflk-yt" class="" onclick="cem()" title="E-mail:cnzw-wtw@qq.com" alt="E-mail:cnzw-wtw@qq.com" width="55">
-        </div>
-        <p id="copyright">
-            <strong>
-                Copyright&copy; 2023-<b id="Y">114514</b>&nbsp;CNZW. All Right Reserved
-            </strong>
-        </p>
-    </center>
-    <script>
-        var currentYear = new Date().getFullYear();
-        document.getElementById("Y").innerHTML = currentYear;
-    </script>
-</footer>
+<!--
+                   _ooOoo_
+                  o8888888o
+                  88" . "88
+                  (| -_- |)
+                  O\  =  /O
+               ____/`---'\____
+             .'  \\|     |//  `.
+            /  \\|||  :  |||//  \
+           /  _||||| -:- |||||-  \
+           |   | \\\  -  /// |   |
+           | \_|  ''\---/''  |   |
+           \  .-\__  `-`  ___/-. /
+         ___`. .'  /--.--\  `. . __
+      ."" '<  `.___\_<|>_/___.'  >'"".
+     | | :  `- \`.;`\ _ /`;.`/ - ` : | |
+     \  \ `-.   \_ __\ /__ _/   .-` /  /
+======`-.____`-.___\_____/___.-`____.-'======
+                   `=---='
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    佛祖保佑       永不宕机     永无BUG
+-->
